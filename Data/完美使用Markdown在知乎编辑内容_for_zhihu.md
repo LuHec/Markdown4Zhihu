@@ -6,7 +6,7 @@
 
 ### Typora中原文件
 
-<img src="https://raw.githubusercontent.com/miracleyoo/Markdown4Zhihu/master/Data/完美使用Markdown在知乎编辑内容/image-20191214174243537.png" alt="image-20191214174243537" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/miracleyoo/Markdown4Zhihu/master/Data/完美使用Markdown在知乎编辑内容/image-20191214174243537.jpg" alt="image-20191214174243537" style="zoom:50%;" />
 
 这份测试文件虽然短，但是基本包含了常见几种要素：标题、正文、图片、表格、代码、公式。下面让我们看看知乎支持的几种上传方式的效果：
 
@@ -40,7 +40,7 @@
 
 那是Typora导出Word导出的不好吗？我打开了导出的Word文件：
 
-<img src="https://raw.githubusercontent.com/miracleyoo/Markdown4Zhihu/master/Data/完美使用Markdown在知乎编辑内容/image-20191214180048117.png" alt="image-20191214180048117" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/miracleyoo/Markdown4Zhihu/master/Data/完美使用Markdown在知乎编辑内容/image-20191214180048117.jpg" alt="image-20191214180048117" style="zoom:50%;" />
 
 公式存在，高亮正确，标题等级正确，表格正确，没有奇怪的空行。虽然和Markdown渲染的结果相比也并不好看说实话，但至少它是对的，而知乎编辑器错的五花八门。
 
