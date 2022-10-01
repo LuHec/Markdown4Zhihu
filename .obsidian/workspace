@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "43feb8eccd8a8f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "a542b0d5fca45890",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Data/完美使用Markdown在知乎编辑内容_for_zhihu.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20df303b9cf12589",
+    "type": "split",
+    "children": [
+      {
+        "id": "4530ff4920c11d8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d7c6b6c8ceeda4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6eb491e8c4d0a4b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3cbd06e9ab975ca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05b0d70ee4333974",
+    "type": "split",
+    "children": [
+      {
+        "id": "79ff1bcc53e292f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d980a6b107175b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data/完美使用Markdown在知乎编辑内容_for_zhihu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51efacf3b08fec23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data/完美使用Markdown在知乎编辑内容_for_zhihu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f26ae7576d1b96a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fad8c125de047430",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data/完美使用Markdown在知乎编辑内容_for_zhihu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a542b0d5fca45890",
+  "lastOpenFiles": [
+    "Data/一个测试文档.md",
+    "Data/如何无换行符复制PDF（论文）中的多行内容_for_zhihu.md",
+    "Data/一篇搞定UnityShader入门精要_for_zhihu.md",
+    "Data/一篇搞定UnityShader入门精要.md",
+    "Data/Paper Reading -- Computational Imaging for Human Activity Analysis.md"
+  ]
+}
